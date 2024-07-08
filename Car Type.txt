@@ -1,0 +1,5 @@
+1 Sonata 7000
+2 Elantra 5000
+3 WagonR 3000
+4 Alto 2500
+6 Yaris 10000
